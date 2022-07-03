@@ -2,7 +2,7 @@ HelloWorld Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
 
-mvn clean package for user
+mvn clean package for devops engg user
 
 Artifact will be created in target folder.
 
